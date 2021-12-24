@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IvicaAnic_SyncExample/1.0.0": {
+        "runtime": {
+          "IvicaAnic_SyncExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IvicaAnic_SyncExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
